@@ -85,6 +85,6 @@ The Data Science Agent performs:
     16.	**Conclusion** (Business Interpretation if needed)
     17.	**Save the Model**
     18. **Evaluate Model Performance** (After saving the final model, load the saved model and run a sample prediction to verify that the model is working correctly.)
-    18.	**Deploy the model** (use pickle or joblib)
+    19.	**Deploy the model** (use pickle or joblib)
 
 
