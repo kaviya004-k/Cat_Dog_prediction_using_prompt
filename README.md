@@ -83,7 +83,8 @@ The Data Science Agent performs:
     14.	**Hyperparameter Tuning** (depending on the model use GridSearchCV, RandomizedSearchCV, or other tuning methods)
     15.	**Final Model & Insights** (Present final results, insights, Model Performance summary)
     16.	**Conclusion** (Business Interpretation if needed)
-    17.	Save the Model
+    17.	**Save the Model**
+    18. **Evaluate Model Performance** (After saving the final model, load the saved model and run a sample prediction to verify that the model is working correctly.)
     18.	**Deploy the model** (use pickle or joblib)
 
 
